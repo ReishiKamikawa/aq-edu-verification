@@ -24,31 +24,31 @@ export const menuData: I0LinkItem[] = [
   },
   {
     label: "Danh sách Bộ tiêu chuẩn",
-    link: "4-2",
+    links: [],
   },
   {
     label: "Danh sách tiêu chuẩn",
-    link: "4-2",
+    links: [],
   },
   {
     label: "Danh sách tiêu chí",
-    link: "4-2",
+    links: [],
   },
   {
     label: "Chu kỳ kiểm định",
-    link: "4-2",
+    links: [],
   },
   {
     label: "Đơn vị chủ trì tiêu chuẩn",
-    link: "4-2",
+    links: [],
   },
   {
     label: "Đơn vị chủ trì tiêu chí",
-    link: "4-2",
+    links: [],
   },
   {
     label: "Danh sách minh chứng",
-    link: "4-2",
+    links: [],
   },
   {
     label: "Danh mục hệ thống",
@@ -57,6 +57,7 @@ export const menuData: I0LinkItem[] = [
       { pageId: 1001, name: "List of evidence types", label: " Danh mục loại minh chứng", link: "4iahruyrpf", status: "Prototype" },
       { pageId: 1002, name: "", label: "Danh mục thang đánh giá", link: "", status: "Menu" },
     ],
-  },
+  },FASDASDFASDFASDF
+ 
+]; 
 
-];
