@@ -44,3 +44,8 @@ db.json
 # package.json || package-log.json
 package-lock.json
 package.json
+/.idea
+.idea/vcs.xml
+.idea/modules.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/aq-edu-verification.iml
